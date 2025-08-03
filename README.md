@@ -1,7 +1,7 @@
 # FacePrep
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/JavohirJalilov/FacePrep/refs/heads/main/images/logo.png">
+<img src="https://raw.githubusercontent.com/JavohirJalilov/FacePrep/refs/heads/main/images/faceprep.png">
 </p>
 
 ## Description
