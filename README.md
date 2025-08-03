@@ -1,8 +1,8 @@
 # FacePrep
 
-<div align="left">
-  <img src="images/logo.png" width="240"/>
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/JavohirJalilov/FacePrep/refs/heads/main/images/logo.png">
+</p>
 
 ## Description
 
